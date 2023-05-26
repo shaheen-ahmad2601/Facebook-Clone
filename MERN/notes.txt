@@ -1,0 +1,9 @@
+CORS - cross origin resource sharing -> cors is a node js package that adds a layer of security to your api/server and limit who can access it or limit who can acess a certain route.
+
+
+
+cors is basically related to the browser but most people think that its related to server but this is not form server , its nothing but a extra layer
+
+
+
+
